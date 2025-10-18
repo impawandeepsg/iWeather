@@ -137,7 +137,6 @@ You can use **OpenWeatherMap** or any other weather API.
 |--------------|---------------|--------|
 | ![Home](https://i.postimg.cc/Gp2yJ84R/temp-Image-Ml-Hyp-C.avif) | ![City](https://i.postimg.cc/52pzCqNg/temp-Image-IQSn15.avif) | ![Search](https://i.postimg.cc/5t0CqY6T/temp-Imagef-Cc-Qc-Z.avif) |
 
-_Add your real screenshots here from the Expo app._
 
 ---
 
