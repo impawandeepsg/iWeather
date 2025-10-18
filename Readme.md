@@ -82,7 +82,7 @@ iWeather/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/iWeather.git
+git clone https://github.com/impawandeepsg/iWeather.git
 cd iWeather/iWeather
 ```
 
@@ -184,7 +184,7 @@ See the [LICENSE](LICENSE) file for details.
 
 **Pawandeep Singh**  
 🎵 Loves singing and building creative apps with passion.  
-🌐 [GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourusername)
+🌐 [GitHub](https://github.com/impawandeepsg) • [LinkedIn](https://www.linkedin.com/in/pawandeep-singh-b8072a1a3/)
 
 ---
 
