@@ -135,7 +135,7 @@ You can use **OpenWeatherMap** or any other weather API.
 
 | Home Screen | City Details | Search |
 |--------------|---------------|--------|
-| ![Home](https://via.placeholder.com/250x500?text=Home+Screen) | ![City](https://via.placeholder.com/250x500?text=City+Details) | ![Search](https://via.placeholder.com/250x500?text=Search+Screen) |
+| ![Home](https://i.postimg.cc/Gp2yJ84R/temp-Image-Ml-Hyp-C.avif) | ![City](https://i.postimg.cc/52pzCqNg/temp-Image-IQSn15.avif) | ![Search](https://i.postimg.cc/5t0CqY6T/temp-Imagef-Cc-Qc-Z.avif) |
 
 _Add your real screenshots here from the Expo app._
 
